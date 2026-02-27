@@ -1,0 +1,5 @@
+{
+  "name": "Iqra - Accessible Text Reader",
+  "description": "An accessible text-to-speech app that translates any text to Arabic and reads it aloud.",
+  "requestFramePermissions": []
+}
